@@ -6,7 +6,7 @@ and you can test it on code pen by this <a href="https://codepen.io/brunodhein/p
 
 Or you can take a look at it down there:
 <h4>HTML</h4>
-```html
+```
 <!--an simple gride example by: Bruno Dhein-->
 <!DOCTYPE html>
 <html>
@@ -15,7 +15,6 @@ Or you can take a look at it down there:
     <link rel="stylesheet" href="css/global.css" />
     <link rel="stylesheet" href="css/reset.css" />
   </head>
-
   <body>
     <div class="container">
       <header>HEADER</header>
