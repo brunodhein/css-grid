@@ -30,7 +30,7 @@ Or you can take a look at it down there:
 
 <h4>CSS</h4>
 
-```css
+css
 /* an simple gride example by: Bruno Dhein*/
 body {
   font-size: 20px;
