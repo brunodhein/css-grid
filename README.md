@@ -7,6 +7,7 @@ and you can test it on code pen by this <a href="https://codepen.io/brunodhein/p
 Or you can take a look at it down there:
 <h4>HTML</h4>
 
+```html
 <!--an simple gride example by: Bruno Dhein-->
 <!DOCTYPE html>
 <html>
@@ -26,11 +27,11 @@ Or you can take a look at it down there:
     </div>
   </body>
 </html>
-
+```
 
 <h4>CSS</h4>
 
-css
+```css
 /* an simple gride example by: Bruno Dhein*/
 body {
   font-size: 20px;
@@ -97,5 +98,5 @@ footer {
   font-family: "Arial", sans-serif;
   font-weight: bold;
 }
-
+```
 
